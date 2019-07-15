@@ -10,6 +10,7 @@
 // extern -> 공유 , static -> 공유하지 않겠다.
 static cusInfo * cusList[MAX_CUSTOMER];
 static int numOfCustomer = 0;
+//ggg
 
 int AddCusInfo(char * ID, char * name, char * num)
 {
