@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0_question.c" />
     <ClCompile Include="cusInfoAccess.c" />
     <ClCompile Include="cusMenu.c" />
     <ClCompile Include="dvdInfoAccess.c" />
