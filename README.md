@@ -16,6 +16,7 @@
 •언어 : C언어  
 
 # **구동 영상 URL**    
+https://youtu.be/jTeuh2TMyMg  
 
 # **결과**    
 • DVD Store 프로그램을 통하여 고객 관리와 DVD 관리를 할 수 있고, DVD 대여 이력과 전체 DVD 정보 상태를 확인 할 수 있다.   
