@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex", "ex\ex.vcxproj", "{6069010C-42C1-454A-A9F5-81BB41DFA3B9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DVD_Store", "DVD_Store\DVD_Store.vcxproj", "{6069010C-42C1-454A-A9F5-81BB41DFA3B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

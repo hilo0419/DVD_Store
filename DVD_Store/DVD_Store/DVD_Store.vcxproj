@@ -47,7 +47,7 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{6069010C-42C1-454A-A9F5-81BB41DFA3B9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>ex</RootNamespace>
+    <RootNamespace>DVD_Store</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
