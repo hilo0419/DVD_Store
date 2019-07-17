@@ -13,7 +13,7 @@
 •CPU : IntelⓇ Core™ i7-4790 CPU @ 3.60GHz  
 •메모리 : 8GB  
 •IDE : Microsoft Visual Studio Community 2017 버전 15.9.9  
-•언어 : C언어  
+•언어 : C
 
 # **구동 영상 URL**    
 https://youtu.be/jTeuh2TMyMg  
